@@ -1,0 +1,11 @@
+- name: Coinbase
+  tag: exchange
+  link: https://www.coinbase.com/
+  icon: /coinbase.png
+  class: coinbase
+  description: Centralized exchanged for new and pro traders.
+- name: Bittrex
+  tag: exchange
+  link: https://bittrex.com/
+  icon: /bittrex.png
+  class: bittrex

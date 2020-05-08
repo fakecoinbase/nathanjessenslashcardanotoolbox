@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /exchanges/
+tag: exchange
+---
+
+{% for tool in site.data.tools %}
+  {% if tool.tag == page.tag %}
+  <a href="{{ tool.link }}"
+    title="{{ tool.name }}"
+    target="_blank">
+      {{ tool.name }}
+  </a>
+  {% endif %}
+{% endfor %}
