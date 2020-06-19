@@ -1,2 +1,2 @@
-# openfitoolbox
-OpenFi Toolbox is a collection of sites, app, and other tools in the Open Finance category.
+# cardanotoolbox
+Cardano Toolbox is a collection of sites, app, and other tools in the Cardano community.
