@@ -10,9 +10,3 @@ gem cleanup blogtheme
 bundle
 bundle exec jekyll serve
 ```
-
-## TODO
-
-* Link to Cardano's websites
-* Link to YouTube channels
-* Link to podcasts
